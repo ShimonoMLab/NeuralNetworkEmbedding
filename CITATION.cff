@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, network embedding framework, dataset structure, analysis procedure, or any modified version of this repository, please cite the following paper."
+authors:
+  - family-names: Shimono
+    given-names: Masanori
+title: "NeuralNetworkEmbedding: Code for neural network embedding of functional microconnectome"
+type: software
+version: "1.0.0"
+date-released: 2026-04-25
+url: "https://github.com/ShimonoMLab/NeuralNetworkEmbedding"
+keywords:
+  - neural network embedding
+  - functional microconnectome
+  - deep autoencoder
+  - network neuroscience
+  - computational neuroscience
+  - network metrics
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Shirakami
+      given-names: Arata
+    - family-names: Hase
+      given-names: Takeshi
+    - family-names: Yamaguchi
+      given-names: Yuki
+    - family-names: Shimono
+      given-names: Masanori
+  title: "Neural network embedding of functional microconnectome"
+  journal: "Network Neuroscience"
+  year: 2025
+  volume: 9
+  issue: 1
+  start: 159
+  end: 180
+  doi: 10.1162/netn_a_00424
