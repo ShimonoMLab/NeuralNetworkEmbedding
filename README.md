@@ -84,7 +84,7 @@ For the scientific method, results, and interpretation, please cite:
 
 The GitHub repository has been archived on Zenodo:
 
-**Shimono, M. (2026). _NeuralNetworkEmbedding: Code for neural network embedding of functional microconnectome_. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxxx**
+**Shimono, M. (2026). _NeuralNetworkEmbedding: Code for neural network embedding of functional microconnectome_. Zenodo. https://doi.org/10.5281/zenodo.19763280
 
 Please cite the peer-reviewed article for the scientific method, results, and interpretation, and cite the Zenodo DOI when referring specifically to this archived software release.
 
